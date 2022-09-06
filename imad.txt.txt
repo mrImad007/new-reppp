@@ -15,3 +15,11 @@ le git:
 
 Créé en 2005 ,le git est un logiciel de versioning et pas un language de programation, qui est devenu très important pour les programmeurs, ce qui les aide a suivre l’avancement de leurs projet et meme revenir au états précedents du projet s’ils veulent avec toutes details de l’historique de modification et de travailler en mode collaboration.
 
+github;
+GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées.
+github aide les devleppeur a travailler en parrallele sur un meme projet .pour gagner du temps et d'effort
+C’est une interface web créée pour faciliter l’interaction avec Git.
+L’avantage de GitHub, c’est que depuis quelques années, il est devenu le book/portfolio des développeurs
+
+
+

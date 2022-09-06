@@ -5,7 +5,7 @@ c'est younes saidy
 c'est ismail houssni
 Et la on vient vous parler un peu apropos des outils de versioning.
 
-Un outils de versioning est un outils ou un logiciel qui donne l’abilité au developpeur à travailler parallèlement sur différentes parties du projet et à revenir facilement aux étapes précédentes de son travail en cas de besoin.
+Un outils de versioning est un outils ou un logiciel qui donne l’abilité au developpeur à travailler sur différentes parties du projet et à revenir facilement aux étapes précédentes de son travail en cas de besoin.
 En plus qu’il lui permet de travailler sur le même projet avec d’autres programmeurs en gardant la trace de chaque modification.
 
-Et lors ce qu’on parle d’un outils de versioning, il est impérativement de mentionner le Git et le GitHub, sachant qu’il’y’en a d’autres (Google csr…)
+Et lorsce qu’on parle d’un outils de versioning, il est impérativement de mentionner le Git et le GitHub, sachant qu’il’y’en a d’autres (Google csr…)

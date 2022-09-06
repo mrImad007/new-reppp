@@ -10,3 +10,8 @@ En plus qu’il lui permet de travailler sur le même projet avec d’autres pro
 il consiste à travailler directement sur le code source d’un projet, en gardant toutes les versions précédentes.
 
 Et lorsce qu’on parle d’un outils de versioning, il est impérativement de mentionner le Git et le GitHub, sachant qu’il’y’en a d’autres (Google csr…)
+
+le git:
+
+Créé en 2005 ,le git est un logiciel de versioning et pas un language de programation, qui est devenu très important pour les programmeurs, ce qui les aide a suivre l’avancement de leurs projet et meme revenir au états précedents du projet s’ils veulent avec toutes details de l’historique de modification et de travailler en mode collaboration.
+

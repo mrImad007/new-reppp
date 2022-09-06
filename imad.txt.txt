@@ -13,7 +13,7 @@ Et lorsce qu’on parle d’un outils de versioning, il est impérativement de m
 
 le git:
 
-Créé en 2005 ,le git est un logiciel de versioning et pas un language de programation, qui est devenu très important pour les programmeurs, ce qui les aide a suivre l’avancement de leurs projet et meme revenir au états précedents du projet s’ils veulent avec toutes details de l’historique de modification et de travailler en mode collaboration.
+Créé en 2005 ,le git est un logiciel de versioning et pas un language de programation, qui est devenu très important pour les programmeurs. ce qui les aide a suivre l’avancement de leurs projet et meme revenir au états précedents du projet s’ils veulent avec toutes details de l’historique de modification et de travailler en mode collaboration.
 
 github;
 GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées.

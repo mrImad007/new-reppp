@@ -1,8 +1,10 @@
 salut tous le monde.
+
 c est ZAOUI Imad Eddine.
 c'est NOUHAILA LAAOUINA.
 c'est younes saidy
 c'est ismail houssni
+
 Et la on vient vous parler un peu apropos des outils de versioning.
 
 Un outils de versioning est un outils ou un logiciel qui donne l’abilité au developpeur à travailler sur différentes parties du projet et à revenir facilement aux étapes précédentes de son travail en cas de besoin.
@@ -11,22 +13,38 @@ il consiste à travailler directement sur le code source d’un projet, en garda
 
 Et lorsce qu’on parle d’un outils de versioning, il est impérativement de mentionner le Git et le GitHub, sachant qu’il’y’en a d’autres (Google csr…)
 
-le git:
-
+git:
 Créé en 2005 ,le git est un logiciel de versioning et pas un language de programation, qui est devenu très important pour les programmeurs, ce qui les aide a suivre l’avancement de leurs projet et meme revenir au états précedents du projet s’ils veulent avec toutes details de l’historique de modification et de travailler en mode collaboration.
 
-github;
+github:
+
 GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées.
 github aide les devleppeur a travailler en parrallele sur un meme projet .pour gagner du temps et d'effort
 C’est une interface web créée pour faciliter l’interaction avec Git.
 L’avantage de GitHub, c’est que depuis quelques années, il est devenu le book/portfolio des développeurs.
 On va vous donner les commandes Git que vous devez connaitre ;
-git init :c'est une commande utilisé pour créer un nouveau dépot à GIT.
-git config: c'est une commande utilisé pour configurer les informations de l'utilisateur par exemple : son nom, email...
-git add : c'est une commande utilisé pour ajouter des fichiers à l'index par exemple:git add project.txt.
-clone git:c'est une comaande utitisé pour vérifier le dépot.
 
-
-
-
-
+git commmands:
+1: git config
+Usage: git config –global user.name “[name]”  
+Usage: git config –global user.email “[email address]”
+-Cette commande définit respectivement le nom de l’auteur et l’adresse e-mail à utiliser avec vos commits
+2:git init
+Usage: git init [repository name]
+ -Cette commande est utilisée pour démarrer un nouveau référentiel .
+3:git clone
+Usage: git clone [url]  
+cette  command permet d'obtenir une REPOSITORY d'un lien url.
+4:git add
+Usage: git add [file]  
+Cette commande ajoute un fichier à la zone de transit.
+5:git commit
+Usage: git commit -m “[ Type in the commit message]”
+Cette commande enregistre ou capture instantanément le fichier de manière permanente dans l’historique des versions.
+6: git diff
+Usage: git diff  
+Cette commande affiche les différences de fichiers qui ne sont pas encore intermédiaires.
+7: git reset
+pour :
+usage :git reset [commit]
+ca te permet de annuler toutes les modifications faites par l'ancienne commande commit
